@@ -1,0 +1,51 @@
+body {
+  font-family: Helvetica, Arial, serif;
+  margin: 0;
+}
+
+header {
+  background-color: dodgerblue;
+  color: white;
+  padding: 15px;
+}
+
+body > header > nav > ul {
+  list-style-type: none;
+}
+
+header > nav > ul > li > a {
+  color: white;
+}
+
+h1 {
+  margin: 0;
+}
+
+label {
+  display: block;
+}
+
+main {
+  width: 80%;
+  margin: auto;
+}
+
+textarea {
+  width: 100%;
+}
+.right_btn {
+  float: right;
+  margin-bottom: 5px;
+}
+
+hr {
+  clear: right;
+}
+
+img {
+  background-color: grey;
+}
+
+.circle_img {
+  border-radius: 50%;
+}
